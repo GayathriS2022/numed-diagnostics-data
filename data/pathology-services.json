@@ -1,0 +1,12 @@
+[
+    {
+        "component": "Slider",
+        "sort": 1,
+        "componentContent": "/pathology-services/slider.json"
+    },
+    {
+        "component": "ThreeColumn",
+        "sort": 2,
+        "componentContent": "/pathology-services/threeColumn.json"
+    }
+]

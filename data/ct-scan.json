@@ -1,0 +1,12 @@
+[
+    {
+        "component": "Slider",
+        "sort": 1,
+        "componentContent": "/ct-scan/slider.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 3,
+        "componentContent": "/ct-scan/two-columnv3.json"
+    }
+]

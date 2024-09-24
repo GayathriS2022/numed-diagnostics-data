@@ -1,0 +1,22 @@
+{
+    "componentName": "TwoColumn",
+    "dataType": "ComponentProps",
+    "variant": "v3",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Text",
+                "text": "<ul><li>EMG &amp; NCV (ALL FOUR LIMBS)</li><li>EMG &amp; NCV BILATERAL UPPER &amp; LOWER LIMB</li><li>EMG &amp; NCV BOTH LOWER LIMB</li><li>EMG &amp; NCV BOTH UPPER LIMB</li><li>EMG &amp; NCV BOTH UPPER LIMB</li><li>EMG &amp; NCV LEFT LOWER LIMB</li><li>EMG &amp; NCV LEFT UPPER LIMB</li><li>EMG &amp; NCV RIGHT LOWER LIMB</li></ul>",
+                "sx": {}
+            }
+        ],
+        [
+            {
+                "name": "Text",
+                "text": "<ul><li>EMG &amp; NCV RIGHT UPPER LIMB</li><li>EMG &amp; NCV SINGLE LIMB</li><li>NCV &amp; EMG FOR BOTH LIMBS</li><li>NCV BILATERAL UPPER &amp; LOWER LIMB</li><li>NCV LEFT LOWER LIMB</li><li>NCV LEFT UPPER LIMB</li><li>NCV RIGHT LOWER LIMB</li> <li>NCV RIGHT UPPER LIMB</li></ul>",
+                "sx": {}
+            }
+        ]
+    ]
+}

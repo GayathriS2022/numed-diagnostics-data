@@ -1,0 +1,82 @@
+{
+    "componentName": "ThreeColumn",
+    "dataType": "ComponentProps",
+    "variant": "v1",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Card",
+                "sx": {},
+                "data": [
+                    [
+                        {
+                            "name": "Title",
+                            "text": "X-RAY"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"text-content\"><p>X-rays are a form of electromagnetic radiation, as are radio waves, infrared radiation, visible light, ultraviolet radiation and microwaves.</p></p></div>",
+                            "sx": {}
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "MRI"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"text-content\"><p>Magnetic resonance imaging (MRI) of the body uses a powerful magnetic field, radio waves and a computer to produce detailed pictures of the inside of your body.</p></p></div>",
+                            "sx": {}
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "CT SCAN"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"text-content\"><p>A CT scan has many uses, but is particularly well-suited to quickly examine people who may have internal injuries from car accidents or other types of trauma.</p></p></div>",
+                            "sx": {}
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "ULTRASOUND"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"text-content\"><p>An ultrasound scan, also referred to as a sonogram, diagnostic sonography, and ultrasonography, is a device that uses high-frequency sound waves to create images of the inside of the body.</p></p></div>",
+                            "sx": {}
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "COLOR DOPPLER"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"text-content\"><p>Doppler ultrasound is a noninvasive test that can be used to estimate the blood flow through your blood vessels by bouncing high-frequency sound waves (ultrasound) off circulating red blood cells.</p></p></div>",
+                            "sx": {}
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "MICROBIOLOGY"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"text-content\"><p>A mammogram is an x-ray picture of the breast. It can be used to check for breast cancer in women who have no signs or symptoms of the disease. It can also be used if you have a lump or other sign of breast cancer.</p></p></div>",
+                            "sx": {}
+                        }
+                    ]
+                ]
+            }
+        ]
+    ]
+}

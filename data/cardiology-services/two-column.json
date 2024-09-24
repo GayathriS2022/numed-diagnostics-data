@@ -1,0 +1,45 @@
+{
+    "componentName": "TwoColumn",
+    "dataType": "ComponentProps",
+    "variant": "v1",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Title",
+                "text": "What is Cardiology?",
+                "variant": "h1"
+            },
+            {
+                "name": "Text",
+                "text": "<p>Cardiology is a medical specialty and a branch of internal medicine concerned with disorders of the heart. It deals with the diagnosis and treatment of such conditions as congenital heart defects, coronary artery disease, electrophysiology, heart failure and valvular heart disease. Subspecialties of the cardiology field include cardiac electrophysiology, echocardiography, interventional cardiology and nuclear cardiology.</p>",
+                "sx": {}
+            },
+            {
+                "name": "Text",
+                "text": "<h5>1.Electrocardiogram (ECG).</h5><p>This test records the electrical activity of the heart, shows abnormal rhythms (arrhythmias), and can sometimes detect heart muscle damage</p>",
+                "sx": {}
+            },
+            {
+                "name": "Text",
+                "text": "<h5>2.Stress test (also called treadmill or exercise ECG).</h5><p>This test is done to monitor the heart while walking on a treadmill or pedal a stationary cycle. We also monitors your breathing and blood pressure. A stress test may be used to detect coronary artery disease, or to determine safe levels of exercise after a heart attack or heart surgery. This test can also be done using special medicines that stress the heart in a similar manner as exercise does.</p>",
+                "sx": {}
+            },
+            {
+                "name": "Text",
+                "text": "<h5>3.Echocardiogram (also known as echo).</h5><p>An echo is a non-invasive test that uses sound waves to evaluate your heart’s chambers and valves, as well as its pumping function. The echo sound waves create an image on the monitor as an ultrasound probe is passed across the skin over your heart.</p>",
+                "sx": {}
+            },
+            {
+                "name": "Media",
+                "src": "https://www.numeddiagnostics.com/assets/numed/two-column/nurse.jpg",
+                "altImg": "",
+                "sx": {
+                    "objectFit": "cover",
+                    "maxWidth": "100%",
+                    "paddingRight": 40
+                }
+            }
+        ]
+    ]
+}

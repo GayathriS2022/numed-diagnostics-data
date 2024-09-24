@@ -1,0 +1,51 @@
+{
+    "componentName": "ThreeColumn",
+    "dataType": "ComponentProps",
+    "variant": "v1",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Card",
+                "sx": {},
+                "data": [
+                    [
+                        {
+                            "name": "Title",
+                            "text": "HISTOPATHOLOGY"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"text-content\">Histopathologists work in the laboratory, both in partnership with laboratory scientists and doctors from other clinical specialties. They have an in-depth knowledge of both pathological and clinical aspects of disease.</p></div>",
+                            "sx": {}
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "HEMATOLOGY"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"text-content\">Hematology is practised by specialists in the field who deal with the diagnosis, treatment and overall management of people with blood disorders ranging from anemia to blood cancer.</p></div>",
+                            "sx": {
+                                "padding": 2
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "CLINICAL PATHOLOGY"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"text-content\">Clinical pathology covers a wide range of laboratory functions and is concerned with the diagnosis, treatment, and prevention of disease. Clinical pathologists are healthcare providers with special training.</p></div>",
+                            "sx": {}
+                        }
+                    ]
+                ]
+            }
+        ]
+    ]
+}

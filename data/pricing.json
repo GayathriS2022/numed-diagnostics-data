@@ -1,0 +1,217 @@
+{
+    "componentName": "Pricing",
+    "dataType": "ComponentProps",
+    "variant": "v1",
+    "sx": {
+        "background-color": "white"
+    },
+    "data": [
+        [
+            {
+                "name": "Card",
+                "variant": "v4",
+                "data": [
+                    [
+                        {
+                            "name": "Icon",
+                            "src": "/images/pricing//doctor-appointment.png",
+                            "altImg": "Pathology",
+                            "sx": {
+                                "width": 100,
+                                "height": 100,
+                                "marginBottom": 30
+                            }
+                        },
+                        {
+                            "name": "Title",
+                            "text": "Pre- Employment Health Check",
+                            "sx": {
+                                "paddingBottom": 3,
+                                "fontSize": "1.5rem",
+                                "fontWeight": "Bold"
+                            }
+                        },
+                        {
+                            "name": "Price",
+                            "text": "1800",
+                            "sx": {
+                                "marginTop": 4,
+                                "paddingBottom": 3,
+                                "fontSize": "1.5rem",
+                                "fontWeight": "Bold"
+                            }
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div style=\"display: flex;width:100%;\"><ul><li>Complete Blood Count (CBC)</li><li>Complete Urine Analysis</li><li>Glucose - Random</li><li>Blood Grouping (A,B,O)</li><li>Rh factor</li><li>X-ray chest</li><li>ECG</li></ul></div>",
+                            "sx": {
+                                "textAlign": "left",
+                                "justifyContent": "flex-start"
+                            }
+                        },
+                        {
+                            "name": "Button",
+                            "text": "Book Now",
+                            "link": "/about-us",
+                            "openInNewTab": true,
+                            "sx": {
+                                "fontSize": "1rem",
+                                "borderRadius": "10px",
+                                "marginTop": 24
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Icon",
+                            "src": "/images/pricing//cardiology.png",
+                            "altImg": "Pathology",
+                            "sx": {
+                                "width": 100,
+                                "height": 100,
+                                "marginBottom": 30
+                            }
+                        },
+                        {
+                            "name": "Title",
+                            "text": "Diamond Health Panel",
+                            "sx": {
+                                "paddingBottom": 3,
+                                "fontSize": "1.5rem",
+                                "fontWeight": "Bold",
+                                "lineHeight": "5rem"
+                            }
+                        },
+                        {
+                            "name": "Price",
+                            "text": "3800",
+                            "sx": {
+                                "paddingBottom": 3,
+                                "fontSize": "1.5rem",
+                                "fontWeight": "Bold"
+                            }
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div style=\"display: flex;width:100%;\"><ul><li>Complete Blood Count (CBC)</li><li>Glucose - Fasting(FBS)</li><li>Liver Function Test(LFT)</li><li>Kidney Function Test</li><li>Lipid Profile </li><li>Thyroid Profile</li><li>Complete Urine Analysis</li><li>Iron (Fe) Study</li><li>X-ray chest</li><li>ULtrasound whole abd</li><li>ECG</li></ul></div>",
+                            "sx": {
+                                "textAlign": "left",
+                                "justifyContent": "flex-start"
+                            }
+                        },
+                        {
+                            "name": "Button",
+                            "text": "Book Now",
+                            "link": "/about-us",
+                            "openInNewTab": true,
+                            "sx": {
+                                "fontSize": "1rem",
+                                "borderRadius": "10px",
+                                "marginTop": 4
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Icon",
+                            "src": "/images/pricing//microscope.png",
+                            "altImg": "Pathology",
+                            "sx": {
+                                "width": 100,
+                                "height": 100,
+                                "marginBottom": 30
+                            }
+                        },
+                        {
+                            "name": "Title",
+                            "text": "Good Health Check",
+                            "sx": {
+                                "paddingBottom": 3,
+                                "fontSize": "1.5rem",
+                                "fontWeight": "Bold",
+                                "lineHeight": "5rem"
+                            }
+                        },
+                        {
+                            "name": "Price",
+                            "text": "3500",
+                            "sx": {
+                                "paddingBottom": 3,
+                                "fontSize": "1.5rem",
+                                "fontWeight": "Bold"
+                            }
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div style=\"display: flex;width:100%;\"><ul><li>Complete Blood Count (CBC)</li><li>Liver Function Test(LFT)</li><li>Glucose - Fasting(FBS)</li><li>Kidney Function Test</li><li>Lipid Profile </li><li>Urine R/M </li><li>X-ray chest</li><li>USG W ABD</li><li>ECG</li><li>TSH</li></ul></div>",
+                            "sx": {
+                                "textAlign": "left",
+                                "justifyContent": "flex-start"
+                            }
+                        },
+                        {
+                            "name": "Button",
+                            "text": "Book Now",
+                            "link": "/about-us",
+                            "openInNewTab": true,
+                            "sx": {
+                                "fontSize": "1rem",
+                                "borderRadius": "10px",
+                                "marginTop": 10
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Icon",
+                            "src": "/images/pricing//ct-scan.png",
+                            "altImg": "Pathology",
+                            "sx": {
+                                "width": 100,
+                                "height": 100,
+                                "marginBottom": 30
+                            }
+                        },
+                        {
+                            "name": "Title",
+                            "text": "Platinum Health Panel",
+                            "sx": {
+                                "paddingBottom": 3,
+                                "fontSize": "1.5rem",
+                                "fontWeight": "Bold",
+                                "lineHeight": "5rem"
+                            }
+                        },
+                        {
+                            "name": "Price",
+                            "text": "4500",
+                            "sx": {
+                                "paddingBottom": 3,
+                                "fontSize": "1.5rem",
+                                "fontWeight": "Bold"
+                            }
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div style=\"display: flex;width:100%;\"><ul><li>Complete Blood Count (CBC)</li><li>Complete Urine Analysis</li><li>Glucose - Fasting</li><li>Glycosylated Haemoglobin</li><li>(GHB/HbA1c))</li><li>Kidney Function Test</li><li>Lipid Profile</li><li>Liver Function Test</li><li>Thyroid Profile </li><li>Vitamin D3</li><li>Vitamin B12</li><li>IRON</li></ul></div>",
+                            "sx": {
+                                "textAlign": "left",
+                                "justifyContent": "flex-start"
+                            }
+                        },
+                        {
+                            "name": "Button",
+                            "text": "Book Now",
+                            "link": "/about-us",
+                            "openInNewTab": true,
+                            "sx": {
+                                "fontSize": "1rem",
+                                "borderRadius": "10px"
+                            }
+                        }
+                    ]
+                ]
+            }
+        ]
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "componentName": "Slider",
+    "dataType": "ComponentProps",
+    "variant": "v2",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Title",
+                "text": "Other Tests",
+                "variant": "h1",
+                "sx": {
+                    "fontSize": "4.5rem",
+                    "fontWeight": 100
+                }
+            },
+            {
+                "name": "Media",
+                "src": "/images/doctors.jpg",
+                "altImg": ""
+            },
+            {
+                "name": "Button",
+                "text": "Book an Appointment",
+                "link": "/contact-us",
+                "openInNewTab": true,
+                "sx": {
+                    "fontSize": "1.25rem"
+                }
+            }
+        ]
+    ]
+}

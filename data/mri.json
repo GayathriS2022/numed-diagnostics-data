@@ -1,0 +1,12 @@
+[
+    {
+        "component": "Slider",
+        "sort": 1,
+        "componentContent": "/mri/slider.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 3,
+        "componentContent": "/mri/two-columnv3.json"
+    }
+]

@@ -1,0 +1,173 @@
+{
+    "componentName": "ThreeColumn",
+    "dataType": "ComponentProps",
+    "variant": "v1",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Card",
+                "sx": {
+                    "alignItems": "flex-start",
+                    "justifyContent": "flex-start"
+                },
+                "data": [
+                    [
+                        {
+                            "name": "Title",
+                            "text": "THERAPEUTIC"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"\"><p>IODINE &gt; 5 MCI</p><hr><p>IODINE &gt; 10-20MCI</p><hr><p>IODINE &gt; 20-30MCI</p><hr><p>P-32 THERAPY</p><hr><p>YTTRIUM THERAPY</p><hr><p>STRONTIUM THERAPY</p><hr><p>SAMARIUM THERAPY</p></p></div>",
+                            "sx": {
+                                "textAlign": "start",
+                                "justifyContent": "flex-start"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "GASTROENTEROLOGY"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"\"><p>HEPATOBILIARY SCAN</p><hr><p>LIVER AND SPLEEN COLLOID SCAN</p><hr><p>RBC LIVER/SPLEEN SCAN</p><hr><p>MECKEL’S SCAN</p><hr><p>GI BLEED SCAN</p><hr><p>GASTROESOPHAGEAL REFLUX SCAN</p><hr><p>SALIVARY GLAND SCAN</p></p></div>",
+                            "sx": {
+                                "textAlign": "start",
+                                "justifyContent": "flex-start"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "NEUROLOGY"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"\"><p>SPECT CEREBRAL PERFUSION SCAN</p><hr><p>SPECT CEREBRAL ICTAL SCAN</p><hr><p>SPECT CEREBRAL PERFUSION PRE AND</p><hr><p>POST ACETAZOLAMIDE</p><hr><p>TECHNETIUM GHA SCAN</p><hr><p>CISTERNOGRAPHY / CSF FLOW</p><hr><p>MIBI BRAIN TUMOR IMAGING</p></p></div>",
+                            "sx": {
+                                "textAlign": "start",
+                                "justifyContent": "flex-start"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "ONCOLOGY"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"\"><p>IODINE WHOLE BODY SCAN</p><hr><p>SCINTIMAMMOGRAPHY</p><hr><p>GALLIUM WHOLE BODY SCAN</p><hr><p>OCTREOTIDE</p></p></div>",
+                            "sx": {
+                                "textAlign": "start",
+                                "justifyContent": "flex-start"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "PET-CT RATES"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"\"><p>CARDIAC PET SCAN</p><hr><p>BRAIN PET SCAN</p><hr><p>WHOLE BODY PET SCAN</p><hr><p>GALLIUM-68 PEPTIDE PET-CT</p></p></div>",
+                            "sx": {
+                                "textAlign": "start",
+                                "justifyContent": "flex-start"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "CARDIOLOGY"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"\"><p>STRESS MYOCARDIAL PERFUSION SCAN</p><hr><p>PHARMACOLOGICAL STRESS MYOCARDIAL PERFUSION SCAN</p><hr><p>MYOCARDIAL VIABILITY ASSESSMENT</p><hr><p>MUGA RESTING</p></p></div>",
+                            "sx": {
+                                "textAlign": "start",
+                                "justifyContent": "flex-start"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "OTHER CHARGES"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"\"><p>TREADMILL TEST</p><hr><p>ANAESTHESIA CHARGES</p><hr><p>ARCHIVING ON CD MEDIA</p></p></div>",
+                            "sx": {
+                                "textAlign": "start",
+                                "justifyContent": "flex-start"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "OSTEOLOGY"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"\"><p>WHOLE BODY SCAN</p><hr><p>3 PHASE BONE SCAN</p><hr><p>&nbsp;</p></p></div>",
+                            "sx": {
+                                "textAlign": "start",
+                                "justifyContent": "flex-start"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "ENDOCRINOLOGY"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"\"><p>TECHNETIUM THYROID SCAN</p><hr><p>MIBI PARATHYROID SCAN</p><hr><p>MIBG SCAN</p></p></div>",
+                            "sx": {
+                                "textAlign": "start",
+                                "justifyContent": "flex-start"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "MISCELLANEOUS"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"\"><p>LUNG VENTILATION SCAN</p><hr><p>LUNG PERFUSION SCAN</p><hr><p>LUNG VENTILATION / PERFUSION SCAN</p><hr><p>VENOGRAPHY</p><hr><p>LYMPHANGIOSCINTIGRAPHY</p></p></div>",
+                            "sx": {
+                                "textAlign": "start",
+                                "justifyContent": "flex-start"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "NEPHRO-UROLOGY"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"\"><p>RENOGRAM/DTPA SCAN</p><hr><p>CAPTOPRIL INTERVENTION RENOGRAM</p><hr><p>RENAL DMSA SCAN</p><hr><p>DRCG SCAN</p><hr><p>TESTTICULAR SCAN</p></p></div>",
+                            "sx": {
+                                "textAlign": "start",
+                                "justifyContent": "flex-start"
+                            }
+                        }
+                    ]
+                ]
+            }
+        ]
+    ]
+}

@@ -1,0 +1,91 @@
+[
+    {
+        "title": "Home",
+        "path": "/home"
+    },
+    {
+        "title": "Services",
+        "children": [
+            {
+                "icon": "tabler:chart-pie-2",
+                "title": "Cardiology Services",
+                "path": "/cardiology-services"
+            },
+            {
+                "icon": "tabler:chart-pie-2",
+                "title": "Pathology Services",
+                "path": "/pathology-services"
+            },
+            {
+                "icon": "tabler:chart-pie-2",
+                "title": "Radiology Services",
+                "path": "/radiology-services"
+            },
+            {
+                "icon": "tabler:chart-pie-2",
+                "title": "Neurology Services",
+                "path": "/neurology-services"
+            },
+            {
+                "icon": "tabler:chart-pie-2",
+                "title": "Nuclear Medicine",
+                "path": "/nuclear-medicine"
+            },
+            {
+                "icon": "tabler:chart-pie-2",
+                "title": "Whole Body Check-ups",
+                "path": "/whole-body-check-ups"
+            }
+        ]
+    },
+    {
+        "title": "Packages",
+        "path": "/packages"
+    },
+    {
+        "title": "011-45567020",
+        "path": "/other-tests",
+        "button": true,
+        "align": "right"
+    },
+    {
+        "title": "Test List",
+        "children": [
+            {
+                "icon": "tabler:chart-pie-2",
+                "title": "CT Scan",
+                "path": "/ct-scan"
+            },
+            {
+                "icon": "tabler:chart-pie-2",
+                "title": "Doppler",
+                "path": "/doppler"
+            },
+            {
+                "icon": "tabler:chart-pie-2",
+                "title": "MRI",
+                "path": "/mri"
+            },
+            {
+                "icon": "tabler:chart-pie-2",
+                "title": "NCV EMG",
+                "path": "/ncv-emg"
+            },
+            {
+                "icon": "tabler:chart-pie-2",
+                "title": "USG",
+                "path": "/usg"
+            },
+            {
+                "icon": "tabler:chart-pie-2",
+                "title": "X-RAY",
+                "path": "/x-ray"
+            },
+            {
+                "icon": "tabler:chart-pie-2",
+                "title": "Other Tests",
+                "path": "/other-tests"
+            }
+        ]
+    }
+]

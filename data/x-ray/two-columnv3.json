@@ -1,0 +1,22 @@
+{
+    "componentName": "TwoColumn",
+    "dataType": "ComponentProps",
+    "variant": "v3",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Text",
+                "text": "<ul><li>X-RAY PER VIEW</li><li>X-RAY IVP</li><li>X RAY RGU</li></ul>",
+                "sx": {}
+            }
+        ],
+        [
+            {
+                "name": "Text",
+                "text": "<ul><li>X RAY RGU+MCU</li><li>X RAY SCANOGRAM</li></ul>",
+                "sx": {}
+            }
+        ]
+    ]
+}

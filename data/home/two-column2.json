@@ -1,0 +1,39 @@
+{
+    "componentName": "TwoColumn",
+    "dataType": "ComponentProps",
+    "variant": "v2",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Title",
+                "text": "What make us the best among others?",
+                "variant": "h1",
+                "sx": {
+                    "alignItems": "flex-start",
+                    "justifyContent": "flex-start"
+                }
+            },
+            {
+                "name": "Text",
+                "text": "<p>Our patients have praised us for our service, and we have been recognized with national and international recognition.</p>",
+                "sx": {}
+            },
+            {
+                "name": "Media",
+                "src": "/images/home/marketshare.png",
+                "altImg": "",
+                "sx": {
+                    "objectFit": "contain",
+                    "maxHeight": "300px"
+                }
+            },
+            {
+                "name": "Button",
+                "text": "Book an Appointment",
+                "link": "/contact-us",
+                "openInNewTab": true
+            }
+        ]
+    ]
+}

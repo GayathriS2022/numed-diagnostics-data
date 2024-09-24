@@ -1,0 +1,12 @@
+[
+    {
+        "component": "Slider",
+        "sort": 1,
+        "componentContent": "/whole-body-check-ups/slider.json"
+    },
+    {
+        "component": "Hero",
+        "sort": 2,
+        "componentContent": "/whole-body-check-ups/hero.json"
+    }
+]

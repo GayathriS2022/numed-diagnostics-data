@@ -1,0 +1,22 @@
+{
+    "componentName": "TwoColumn",
+    "dataType": "ComponentProps",
+    "variant": "v3",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Text",
+                "text": "<ul><li>CECT PORTOGRAPHY</li><li>DEXA SCANNING - HIP &amp; SPINE</li><li>DEXA SCANNING - ONE PART</li><li>DEXA SCANNING - WHOLE BODY</li><li>DEXA SPINAL</li><li>DEXA THREE SIDES</li><li>DOBVTAMINE STRESS ECHO</li><li>ECG</li></ul>",
+                "sx": {}
+            }
+        ],
+        [
+            {
+                "name": "Text",
+                "text": "<ul><li>ECHOCARDIOGRAPHY</li><li>ECHOCARDIOGRAPHY STRESS</li><li>EEG</li><li>HOLTER 24 HRS</li><li>PFT / PULMONARY FUNCTION TEST</li><li>TMT / TREADMILL TEST</li><li>MEMMOGRAPHY BOTH BREAST</li><li>MEMMOGRAPHY SINGLE BREAST</li></ul>",
+                "sx": {}
+            }
+        ]
+    ]
+}

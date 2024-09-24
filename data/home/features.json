@@ -1,0 +1,75 @@
+{
+    "componentName": "ThreeColumn",
+    "dataType": "ComponentProps",
+    "variant": "v1",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Card",
+                "sx": {
+                    "alignItems": "flex-start",
+                    "justifyContent": "flex-start"
+                },
+                "data": [
+                    [
+                        {
+                            "name": "Title",
+                            "text": "Blood test at your comfort",
+                            "sx": {
+                                "paddingBottom": 2
+                            }
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<p style=\" text-align: left\">Numed Diagnostics having a Big for phlebotomists, technicians, quality supervisors, administrative and supervisors who are highly motivated and dedicated.</p>",
+                            "sx": {}
+                        },
+                        {
+                            "name": "Button",
+                            "text": "Our Location",
+                            "link": "",
+                            "openInNewTab": true,
+                            "sx": {}
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "24x7 Customer Support",
+                            "sx": {
+                                "paddingBottom": 2
+                            }
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<p style=\" text-align: left\">Our doctors are available everyday a week, make an appointment.</p><p style=\" text-align: left\">support@numeddiagnostics.com</p>",
+                            "sx": {}
+                        },
+                        {
+                            "name": "Button",
+                            "text": "eEmail Us",
+                            "link": "",
+                            "openInNewTab": true,
+                            "sx": {}
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "Our Center Operation Hours",
+                            "sx": {
+                                "paddingBottom": 2
+                            }
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<p style=\"text-align: left\">Visit us at our lab.</br>Mon-Sat  09: 00 AM-09: 00 PM</br>Sunday 09: 00 AM-05: 00 PM </br></br><img src=\"https://www.numeddiagnostics.com/assets/numed/icons/telephone-48.png\" height=\"18\" />&nbsp;&nbsp;<b> 011-45567020 </b></p>",
+                            "sx": {}
+                        }
+                    ]
+                ]
+            }
+        ]
+    ]
+}

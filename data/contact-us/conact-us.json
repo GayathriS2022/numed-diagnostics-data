@@ -1,0 +1,52 @@
+{
+    "componentName": "FAQ",
+    "dataType": "ComponentProps",
+    "variant": "v2",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Title",
+                "text": "Let's work together",
+                "variant": "h1"
+            },
+            {
+                "name": "Text",
+                "text": "Any question or remark? just write us a message",
+                "sx": {}
+            },
+            {
+                "name": "Email",
+                "text": "admin@wealthtree.com",
+                "variant": "h1"
+            },
+            {
+                "name": "Phone",
+                "text": "+1234 568 963",
+                "sx": {}
+            },
+            {
+                "name": "Media",
+                "src": "/images/contact-customer-service.png",
+                "altImg": ""
+            },
+            {
+                "name": "Card",
+                "data": [
+                    {
+                        "name": "Title",
+                        "text": "Send a message"
+                    },
+                    {
+                        "name": "Text",
+                        "text": "<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSfYNG8apE3c68CYMO3IQS2gRhigc4sc4brlDkHX7l0D1kQfCg/viewform?embedded=true\" width=\"720\" height=\"1000\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe>"
+                    },
+                    {
+                        "name": "Button",
+                        "text": "Send Enquiry"
+                    }
+                ]
+            }
+        ]
+    ]
+}

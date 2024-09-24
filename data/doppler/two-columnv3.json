@@ -1,0 +1,22 @@
+{
+    "componentName": "TwoColumn",
+    "dataType": "ComponentProps",
+    "variant": "v3",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Text",
+                "text": "<ul class=\"elementor-icon-list-items\"><li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"fas fa-dot-circle\"></i> </span> <span class=\"elementor-icon-list-text\">DOPPLER ABDOMINAL</span></li><li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"fas fa-dot-circle\"></i> </span> <span class=\"elementor-icon-list-text\">DOPPLER ARTERIAL / VENOUS - ONE LIMB</span></li><li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"fas fa-dot-circle\"></i> </span> <span class=\"elementor-icon-list-text\">DOPPLER BOTH LOWER LIMBS ARTERIAL &amp; VENOUS</span></li><li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"fas fa-dot-circle\"></i> </span> <span class=\"elementor-icon-list-text\">DOPPLER BOTH UPPER LIMBS ARTERIAL &amp; VENOUS</span></li><li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"fas fa-dot-circle\"></i> </span> <span class=\"elementor-icon-list-text\">DOPPLER CAROTID</span></li><li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"fas fa-dot-circle\"></i> </span> <span class=\"elementor-icon-list-text\">DOPPLER OBSTETRIC</span></li><li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"fas fa-dot-circle\"></i> </span> <span class=\"elementor-icon-list-text\">DOPPLER PENILE</span></li><li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"fas fa-dot-circle\"></i> </span> <span class=\"elementor-icon-list-text\">DOPPLER PELVIC</span></li></ul>",
+                "sx": {}
+            }
+        ],
+        [
+            {
+                "name": "Text",
+                "text": "<ul class=\"elementor-icon-list-items\"><li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"fas fa-dot-circle\"></i> </span> <span class=\"elementor-icon-list-text\">DOPPLER PERIPHERAL ARTERIAL</span></li><li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"fas fa-dot-circle\"></i> </span> <span class=\"elementor-icon-list-text\">DOPPLER PERIPHERAL VENOUS (BOTH LIMBS UPPER / LOWER)</span></li><li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"fas fa-dot-circle\"></i> </span> <span class=\"elementor-icon-list-text\">DOPPLER RENAL</span></li><li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"fas fa-dot-circle\"></i> </span> <span class=\"elementor-icon-list-text\">DOPPLER RENAL</span></li><li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"fas fa-dot-circle\"></i> </span> <span class=\"elementor-icon-list-text\">DOPPLER SCROTAL</span></li><li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"fas fa-dot-circle\"></i> </span> <span class=\"elementor-icon-list-text\">DOPPLER SINGLE LIMB ARTERIAL &amp; VENOUS</span></li><li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"fas fa-dot-circle\"></i> </span> <span class=\"elementor-icon-list-text\">DOPPLER SMALL PARTS</span></li></ul>",
+                "sx": {}
+            }
+        ]
+    ]
+}

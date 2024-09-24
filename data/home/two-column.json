@@ -1,0 +1,39 @@
+{
+    "componentName": "TwoColumn",
+    "dataType": "ComponentProps",
+    "variant": "v1",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Title",
+                "text": "Welcome to Numed Diagnostics.",
+                "variant": "h1",
+                "sx": {
+                    "alignItems": "flex-start",
+                    "justifyContent": "flex-start"
+                }
+            },
+            {
+                "name": "Text",
+                "text": "<p>Numed Diagnostics having a Big for phlebotomists, technicians, quality supervisors, administrative and supervisors who are highly motivated and dedicated.<br><br>Numed Diagnostics has gone beyond the concept of need based testing by promoting the concept of Preventive Healthcare. The health packages offered by Numed Diagnostics are based on what the people need and not what sells in the market. Numed Diagnostics ensures that every test conducted is of highest quality.<br><br></p><ul><li>Best Price Guaranteed</li><li>100% Safe and Hygienic</li><li>Perfect Service with Accuracy</li><li>Fully Automation with all latest  Equipments</li></ul><p></p></p>",
+                "sx": {}
+            },
+            {
+                "name": "Media",
+                "src": "/images/home/nurse.jpg",
+                "altImg": "",
+                "sx": {
+                    "objectFit": "cover",
+                    "maxWidth": "80%"
+                }
+            },
+            {
+                "name": "Button",
+                "text": "More about us",
+                "link": "/about-us",
+                "openInNewTab": true
+            }
+        ]
+    ]
+}

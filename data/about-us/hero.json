@@ -1,0 +1,23 @@
+    {
+        "componentName": "Hero",
+        "dataType": "ComponentProps",
+        "variant": "v1",
+        "sx": {
+            "margin": "0px",
+            "padding": "0px"
+        },
+        "data": [
+            [
+                {
+                    "name": "Text",
+                    "text": "<div class=\"d-flex flex-column justify-content-center align-items-center container\" style=\"text-align: left; margin-top: 2.5rem;\"><div><h1 class=\"title text-align-center h1 animate-reverse\" style=\" color: #ea5455;display:flex;justify-content:center\">Welcome to Numed Diagnostics</h1></div><div><p class=\"\">Numed Diagnostics having a Big for phlebotomists, technicians, quality supervisors, administrativeandsupervisors who arehighly motivated and dedicated.<br><br>To keep up their level of motivation, the laboratory isvery involved with their welfare, and many welfare programmesare inducted which include PF, ESI, InsuranceEtc.<br><br>Numed Diagnostics has gone beyond the concept of need based testing by promoting the concept of PreventiveHealthcare. Thehealth packages offered by Numed Diagnostics are based on what the people need and not what sells in themarket. Numed Diagnostics ensures that every test conducted is of highest quality.<br><br>Our quality assurance efforts focus on positive patient identification of specimens, report accuracy, proficiency testing, reference range relevance and process audits for our clinical laboratories, patient touch points and institutional touch points. We also have systems and procedures in place to monitor quality through inter-laboratory comparisons, to maintain reporting standards within our network.</p></div><div><h2 class=\"title text-content mb-2 h2 animate-reverse\" style=\" color: #ea5455;display:flex;justify-content:center\">Our Mission</h2></div><div><p class=\"\">To serve and enrich the quality of life of patients suffering from disease, through the efficient deployment of technology and Human expertise in a caring and nurturing environment with the greatest respect of human dignity and life.</p></div></div>",
+                    "sx": {}
+                },
+                {
+                    "name": "Text",
+                    "text": "<div class=\"d-flex flex-column justify-content-center align-items-center container\" style=\"margin-top: 2.5rem;\"><div><h1 class=\"title text-content mb-2 h1 animate-reverse\"style=\" color: #ea5455;display:flex;justify-content:center\">Your Health Is Important To Us</h1></div><div><p class=\"\">We help doctors and patients to plan an accurate and appropriate treatment by helping them with the right diagnosis for a particular medical condition. We are available around the clock to provide our patients with highly competent, evidence-based and state-of-the-art diagnostic expertise.<br><br>We have an advanced and well-equipped testing laboratory which is built in accordance with the globally recognized standards and a competent team of highly trained experts and technologists to meet the laboratory testing requirements of our patients.</p></div></div>",
+                    "sx": {}
+                }
+            ]
+        ]
+    }

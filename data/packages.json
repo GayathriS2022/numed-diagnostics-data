@@ -1,0 +1,12 @@
+[
+    {
+        "component": "Slider",
+        "sort": 1,
+        "componentContent": "/packages/slider.json"
+    },
+    {
+        "component": "Pricing",
+        "sort": 1,
+        "componentContent": "/pricing.json"
+    }
+]

@@ -1,0 +1,21 @@
+    {
+        "componentName": "Hero",
+        "dataType": "ComponentProps",
+        "variant": "v1",
+        "sx": {
+            "margin": "0px",
+            "padding": "0px"
+        },
+        "data": [
+            [
+                {
+                    "name": "Text",
+                    "text": "<div><p class=\"\">For better health care solutions we provide you blood test services in Delhi. Full body checkup in Delhi is another health care option we have for many patients. With affordable prices, you can get your report within 24 hours. Without visiting anywhere from home.<br><br><b>Here is the test List come under the Full Body check-ups.</b></p></div><div style=\"display: flex;margin: 0;padding: 0;width: 100%;\"><div style=\"flex: 1;box-sizing: border-box;\"><p><ul><li>Vitamin</li><li>Liver</li><li>Arthritis</li><li>Cardiac Risk</li><li>Markers</li><li>Iron Deficiency</li></ul></p></div><div style=\"flex: 1;box-sizing: border-box;\"><p><ul><li>Renal</li><li>Thyroid</li><li>Lipid</li><li>Pancreatic</li><li>Diabetes</li><li>Electrolytes</li></ul></p></div><div style=\"flex: 1;box-sizing: border-box;\"><p><ul><li>Hormone</li><li>Metabolic</li><li>Complete</li><li>Hemogram</li><li>Toxic Elements</li></ul></p></div></div>",
+                    "sx": {
+                        "margin": "0px",
+                        "padding": "0px"
+                    }
+                }
+            ]
+        ]
+    }

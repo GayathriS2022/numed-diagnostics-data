@@ -1,0 +1,28 @@
+{
+    "componentName": "Hero",
+    "dataType": "ComponentProps",
+    "variant": "v1",
+    "sx": {
+        "margin": "0px",
+        "padding": "0px"
+    },
+    "data": [
+        [
+            {
+                "name": "Text",
+                "text": "<h2>1.Electrocardiogram (ECG).</h2><p class=\"c0\">This test records the electrical activity of the heart, shows abnormal rhythms (arrhythmias), and can sometimes detect heart muscle damage</p>",
+                "sx": {}
+            },
+            {
+                "name": "Text",
+                "text": "<h2>2.Stress test (also called treadmill or exercise ECG).</h2><p class=\"c0\">This test is done to monitor the heart while walking on a treadmill or pedal a stationary cycle. We also monitors your breathing and blood pressure. A stress test may be used to detect coronary artery disease, or to determine safe levels of exercise after a heart attack or heart surgery. This test can also be done using special medicines that stress the heart in a similar manner as exercise does.</p>",
+                "sx": {}
+            },
+            {
+                "name": "Text",
+                "text": "<h2>3.Echocardiogram (also known as echo).</h2><p class=\"c0\">An echo is a non-invasive test that uses sound waves to evaluate your heart’s chambers and valves, as well as its pumping function. The echo sound waves create an image on the monitor as an ultrasound probe is passed across the skin over your heart.</p>",
+                "sx": {}
+            }
+        ]
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "componentName": "FiveColumn",
+    "dataType": "ComponentProps",
+    "variant": "v1",
+    "sx": {
+        "background-color": "white"
+    },
+    "data": [
+        [
+            {
+                "name": "Title",
+                "text": "Our Services",
+                "variant": "h1",
+                "sx": {
+                    "color": "black"
+                }
+            },
+            {
+                "name": "Text",
+                "text": "Numed Diagnostics has a history of bringing new technologies.",
+                "sx": {
+                    "color": "black"
+                }
+            },
+            {
+                "name": "Card",
+                "variant": "v3",
+                "data": [
+                    [
+                        {
+                            "name": "Icon",
+                            "src": "/images/home/cardiology.png",
+                            "altImg": "Cardiology"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "Cardiology",
+                            "sx": {
+                                "color": "black",
+                                "paddingBottom": 3,
+                                "fontSize": "1.5rem",
+                                "fontWeight": "Bold"
+                            }
+                        },
+                        {
+                            "name": "Button",
+                            "text": "View More",
+                            "link": "",
+                            "openInNewTab": true,
+                            "sx": {
+                                "fontSize": "1rem",
+                                "borderRadius": "10px"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Icon",
+                            "src": "/images/home/ct-scan.png",
+                            "altImg": "Radiology"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "Radiology",
+                            "sx": {
+                                "color": "black",
+                                "paddingBottom": 3,
+                                "fontSize": "1.5rem",
+                                "fontWeight": "Bold"
+                            }
+                        },
+                        {
+                            "name": "Button",
+                            "text": "View More",
+                            "link": "",
+                            "openInNewTab": true,
+                            "sx": {
+                                "fontSize": "1rem",
+                                "borderRadius": "10px"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Icon",
+                            "src": "/images/home/neurology.png",
+                            "altImg": "Neurology"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "Neurology",
+                            "sx": {
+                                "color": "black",
+                                "paddingBottom": 3,
+                                "fontSize": "1.5rem",
+                                "fontWeight": "Bold"
+                            }
+                        },
+                        {
+                            "name": "Button",
+                            "text": "View More",
+                            "link": "",
+                            "openInNewTab": true,
+                            "sx": {
+                                "fontSize": "1rem",
+                                "borderRadius": "10px"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Icon",
+                            "src": "/images/home/microscope.png",
+                            "altImg": "Pathology"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "Pathology",
+                            "sx": {
+                                "color": "black",
+                                "paddingBottom": 3,
+                                "fontSize": "1.5rem",
+                                "fontWeight": "Bold"
+                            }
+                        },
+                        {
+                            "name": "Button",
+                            "text": "View More",
+                            "link": "",
+                            "openInNewTab": true,
+                            "sx": {
+                                "fontSize": "1rem",
+                                "borderRadius": "10px"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Icon",
+                            "src": "/images/home/doctor-appointment.png",
+                            "altImg": "Check-ups"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "Check-ups",
+                            "sx": {
+                                "color": "black",
+                                "paddingBottom": 3,
+                                "fontSize": "1.5rem",
+                                "fontWeight": "Bold"
+                            }
+                        },
+                        {
+                            "name": "Button",
+                            "text": "View More",
+                            "link": "",
+                            "openInNewTab": true,
+                            "sx": {
+                                "fontSize": "1rem",
+                                "borderRadius": "10px"
+                            }
+                        }
+                    ]
+                ]
+            }
+        ]
+    ]
+}

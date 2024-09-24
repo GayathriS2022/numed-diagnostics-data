@@ -1,0 +1,82 @@
+{
+    "componentName": "ThreeColumn",
+    "dataType": "ComponentProps",
+    "variant": "v1",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Card",
+                "sx": {},
+                "data": [
+                    [
+                        {
+                            "name": "Title",
+                            "text": "BIOCHEMISTRY"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"text-content\"><p>Biochemistry seeks to describe the structure, organization, and functions of living matter in molecular terms. Biochemistry focuses on processes happening at a molecular level.</p></p></div>",
+                            "sx": {}
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "CYTOGENETICS"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"text-content\"><p>Cytogenetics is the branch of genetics that studies the structure and behavior of chromosomes and their relation to human disease and disease processes.</p></p></div>",
+                            "sx": {}
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "MICROBIOLOGY"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"text-content\"><p>Biochemistry seeks to describe the structure, organization, and functions of living matter in molecular terms. Biochemistry focuses on processes happening at a molecular level.</p></p></div>",
+                            "sx": {}
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "HISTOPATHOLOGY"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"text-content\"><p>Histopathologists work in the laboratory, both in partnership with laboratory scientists and doctors from other clinical specialties. They have an in-depth knowledge of both pathological and clinical aspects of disease.</p></p></div>",
+                            "sx": {}
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "HEMATOLOGY"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"text-content\"><p>Hematology is practised by specialists in the field who deal with the diagnosis, treatment and overall management of people with blood disorders ranging from anemia to blood cancer.</p></p></div>",
+                            "sx": {}
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "CLINICAL PATHOLOGY"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"text-content\"><p>Clinical pathology covers a wide range of laboratory functions and is concerned with the diagnosis, treatment, and prevention of disease. Clinical pathologists are healthcare providers with special training.</p></p></div>",
+                            "sx": {}
+                        }
+                    ]
+                ]
+            }
+        ]
+    ]
+}

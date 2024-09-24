@@ -1,0 +1,46 @@
+{
+    "componentName": "ThreeColumn",
+    "dataType": "ComponentProps",
+    "variant": "v1",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Card",
+                "sx": {},
+                "data": [
+                    [
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"\"><ul><li>Vitamin</li><li>Liver</li><li>Arthritis</li><li>Cardiac Risk</li><li>Markers</li><li>Iron Deficiency</li></ul></p></div>",
+                            "sx": {
+                                "textAlign": "start",
+                                "width": "500px"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"\"><ul><li>Renal</li><li>Thyroid</li><li>Lipid</li><li>Pancreatic</li><li>Diabetes</li><li>Electrolytes</li></ul></p></div>",
+                            "sx": {
+                                "textAlign": "start",
+                                "justifyContent": "flex-start"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Text",
+                            "text": "<div><p class=\"\"><ul><li>Hormone</li><li>Metabolic</li><li>Complete</li><li>Hemogram</li><li>Toxic Elements</li></ul></p></div>",
+                            "sx": {
+                                "textAlign": "start",
+                                "justifyContent": "flex-start"
+                            }
+                        }
+                    ]
+                ]
+            }
+        ]
+    ]
+}

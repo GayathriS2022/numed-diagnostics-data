@@ -1,0 +1,22 @@
+{
+    "componentName": "Slider",
+    "dataType": "ComponentProps",
+    "variant": "v1",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Media",
+                "src": "/images/home/banner-services.jpg",
+                "altImg": ""
+            }
+        ],
+        [
+            {
+                "name": "Media",
+                "src": "/images/home/banner-services.jpg",
+                "altImg": ""
+            }
+        ]
+    ]
+}

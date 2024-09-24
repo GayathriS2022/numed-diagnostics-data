@@ -1,0 +1,68 @@
+[
+    {
+        "pageMetadata": {
+            "title": "Neurology Services",
+            "meta": {
+                "name": [
+                    {
+                        "name": "description",
+                        "content": "Comprehensive neurology services offering advanced diagnosis and treatment options."
+                    },
+                    {
+                        "name": "keywords",
+                        "content": "neurology, brain, nervous system, neurological disorders"
+                    }
+                ],
+                "property": [
+                    {
+                        "property": "og:title",
+                        "content": "Neurology Services | Our Hospital"
+                    },
+                    {
+                        "property": "og:description",
+                        "content": "Learn about our state-of-the-art neurology services and expert care."
+                    },
+                    {
+                        "property": "og:image",
+                        "content": "https://example.com/images/neurology-services.jpg"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "component": "Slider",
+        "sort": 1,
+        "componentContent": "/home/slider.json"
+    },
+    {
+        "component": "ThreeColumn",
+        "sort": 2,
+        "componentContent": "/home/features.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 3,
+        "componentContent": "/home/two-column.json"
+    },
+    {
+        "component": "Divider",
+        "sort": 4,
+        "componentContent": {
+            "variant": "v2",
+            "sx": {
+                "height": 10
+            }
+        }
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 5,
+        "componentContent": "/home/two-column2.json"
+    },
+    {
+        "component": "FiveColumn",
+        "sort": 6,
+        "componentContent": "/home/five-column.json"
+    }
+]
